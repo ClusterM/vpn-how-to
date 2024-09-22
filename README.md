@@ -112,7 +112,7 @@
 
 Нажимаем "Добавить сервер" и вводим там наш ключ от VPN. Ну а дальше просто нажимаем "подключить":
 
-![image](https://github.com/user-attachments/assets/87124bd9-0000-4174-909f-0efa2428d216)
+![image](https://github.com/user-attachments/assets/607796ab-5f85-4259-a821-00b243413e90)
 
 Под другим платформы (Anroid и пр.) интерфейс программы точно такой же. Версию для Android или Anroid TV можно скачать в Google Play: https://play.google.com/store/apps/details?id=org.outline.android.client
 
