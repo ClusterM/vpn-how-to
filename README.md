@@ -72,6 +72,8 @@
 
 То просто скопируйте и вставьте ту же самую команду, но без "sudo" в самом начале, например `bash -c "$(wget -qO- https://raw.githubusercontent.com/Jigsaw-Code/outline-server/master/src/server_manager/install_scripts/install_server.sh)"`.
 
+Если просят ввести пароль, то введите всё тот же пароль от VPS.
+
 Дальше пойдёт процесс установки:
 
 ![image](https://github.com/user-attachments/assets/4774e324-2065-4dd2-8ce6-3d049a1e43e7)
