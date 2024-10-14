@@ -80,11 +80,11 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.
 
 Если вы не шарите, то давайте лучше откажемся: наберите букву `n` и нажмите `enter`:
 
-![image](https://github.com/user-attachments/assets/04441ca5-44c7-4738-aed3-80b0a0eb0734)
+![image](https://github.com/user-attachments/assets/c0624d1a-483e-4f33-b8e2-01a20b535a3b)
 
 Дальше зелёными буквами вам должны будут вывестись ваши настройки, как-то так:
 
-![image](https://github.com/user-attachments/assets/1636c6af-7a0e-418c-a42b-d0388594c079)
+![image](https://github.com/user-attachments/assets/926eff7b-8444-4b2b-97db-7487a093570b)
 
 Сохраните эти данные себе куда-нибудь в надёжное место! А putty нам больше не нужен, его можно закрывать.
 
