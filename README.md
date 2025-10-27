@@ -78,9 +78,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.
 
 ![image](https://github.com/user-attachments/assets/6baafdbb-003e-4791-9dda-7546ced0c5c9)
 
-Если вы не шарите, то давайте лучше откажемся: наберите букву `n` и нажмите `enter`:
-
-![image](https://github.com/user-attachments/assets/c0624d1a-483e-4f33-b8e2-01a20b535a3b)
+Недавно многие провайдеры начали блокировать веб-сайты на нестандартных портах. Поэтому лучше на этом шаге ввести `y`, нажать `enter`. После этого у вас спросят номер порта, введите `80`.
 
 Дальше зелёными буквами вам должны будут вывестись ваши настройки, как-то так:
 
